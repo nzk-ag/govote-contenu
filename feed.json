@@ -370,6 +370,406 @@
         "date": "2026-11-14",
         "text": "Tous les candidats déclarés devraient-ils être invités aux grands débats télévisés avant le 1er tour ?"
       }
+    },
+    {
+      "slug": "avenir-parcoursup",
+      "category": "Éducation",
+      "image": {
+        "emoji": "🎓",
+        "motif": "dots"
+      },
+      "title": "Parcoursup : le gouvernement promet un remplacement d’ici 2028, les lycéens demandent sa fin",
+      "shortTitle": "Faut-il en finir avec Parcoursup ?",
+      "summary": "Sous la pression du mouvement lycéen et étudiant, le gouvernement a lancé un chantier pour transformer Parcoursup dès 2027 et le remplacer en 2028. La réunion de lancement à Matignon a tourné court.",
+      "what": "Le gouvernement a annoncé une transformation progressive de Parcoursup à partir de 2027, avant son remplacement complet en 2028. Le 9 novembre 2026, à Matignon, les organisations lycéennes et étudiantes ont quitté le comité chargé de cette réforme, sans annonce concrète à l’issue de la réunion.",
+      "why": "Parcoursup décide de l’entrée dans l’enseignement supérieur de centaines de milliers de lycéens chaque année. Sa suppression est l’une des principales revendications du mouvement lycéen et étudiant de l’automne.",
+      "context": [
+        "Parcoursup est la plateforme nationale d’admission dans l’enseignement supérieur, créée en 2018.",
+        "Les organisations lycéennes et étudiantes demandent la fin de Parcoursup, plus de places à l’université et plus de moyens.",
+        "Le ministre de l’Enseignement supérieur, Philippe Baptiste, a annoncé un débat au Sénat sur l’avenir de Parcoursup."
+      ],
+      "keyFacts": [
+        "Annonce gouvernementale : transformation dès 2027, remplacement en 2028.",
+        "9 novembre 2026 : les organisations lycéennes et étudiantes quittent le comité de réforme à Matignon.",
+        "Elles contestaient notamment la présence de parlementaires RN et UDR et de représentants patronaux."
+      ],
+      "forArgs": [
+        "Les organisations lycéennes jugent la plateforme opaque et source de stress, et réclament la fin de la sélection par algorithme."
+      ],
+      "againstArgs": [
+        "Ses défenseurs estiment qu’un outil national reste nécessaire pour répartir des places limitées, et qu’il vaut mieux le réformer."
+      ],
+      "explanations": [
+        {
+          "term": "Parcoursup",
+          "definition": "Plateforme nationale où les lycéens formulent leurs vœux d’études supérieures et reçoivent les réponses des formations."
+        }
+      ],
+      "publishedAt": "2026-11-13",
+      "sources": [
+        {
+          "label": "Public Sénat",
+          "url": "https://www.publicsenat.fr/actualites/education/le-gouvernement-joue-les-pompiers-pyromanes-a-matignon-la-grand-messe-parcoursup-vire-au-fiasco"
+        },
+        {
+          "label": "Ouest-France",
+          "url": "https://www.ouest-france.fr/education/orientation/colere-sociale-des-lyceens-et-etudiants-claquent-la-porte-du-comite-de-reforme-de-parcoursup-a-matignon-0be4cf28-dc52-11f1-81f5-8e32b0872d76"
+        },
+        {
+          "label": "Public Sénat — débat annoncé au Sénat",
+          "url": "https://www.publicsenat.fr/actualites/education/avenir-de-parcoursup-le-ministre-philippe-baptiste-annonce-un-debat-au-senat-la-semaine-prochaine"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-13",
+      "question": {
+        "id": "q-parcoursup-suppression",
+        "date": "2026-11-15",
+        "text": "Faut-il supprimer Parcoursup ?"
+      }
+    },
+    {
+      "slug": "gazole-stocks-strategiques",
+      "category": "Économie",
+      "image": {
+        "emoji": "⛽",
+        "motif": "stripes"
+      },
+      "title": "Gazole moins cher : l’État puise dans ses stocks stratégiques",
+      "shortTitle": "Le gazole baisse grâce aux stocks de l’État",
+      "summary": "Pour faire baisser le prix à la pompe, l’État cède aux distributeurs du gazole de ses stocks stratégiques pendant trois mois. La baisse moyenne est d’environ 19 centimes par litre.",
+      "what": "Le gouvernement met à disposition des distributeurs 10 millions de barils de gazole issus des stocks stratégiques, sur trois mois (novembre, décembre, janvier). Achetés avant la guerre au Moyen-Orient, ils sont cédés à environ 0,28 € le litre. Selon le ministre Serge Papin, le litre de gazole a baissé en moyenne de 19 centimes ; certaines enseignes annoncent 21 centimes.",
+      "why": "Le prix des carburants pèse sur le budget des ménages, surtout hors des grandes villes. Mais les stocks stratégiques servent d’abord à faire face à une crise d’approvisionnement.",
+      "context": [
+        "Le dispositif a été annoncé le 12 octobre 2026 ; le gouvernement espérait alors une baisse de 12 à 18 centimes.",
+        "La baisse se fait sans toucher aux taxes sur les carburants.",
+        "La suite après janvier sera décidée plus tard ; le ministre n’exclut pas de débloquer davantage de stocks."
+      ],
+      "keyFacts": [
+        "10 millions de barils cédés sur trois mois, à environ 0,28 € le litre.",
+        "Baisse moyenne d’environ 19 centimes par litre selon le ministre (21 centimes chez certaines enseignes).",
+        "Aucune baisse de taxe."
+      ],
+      "forArgs": [
+        "Le gouvernement met en avant une aide rapide au pouvoir d’achat, sans nouvelle dépense fiscale."
+      ],
+      "againstArgs": [
+        "Des critiques soulignent qu’il s’agit d’une mesure temporaire, et que les stocks stratégiques doivent rester disponibles en cas de crise."
+      ],
+      "explanations": [
+        {
+          "term": "Stocks stratégiques",
+          "definition": "Réserves de produits pétroliers que la France doit détenir pour faire face à une rupture d’approvisionnement."
+        }
+      ],
+      "publishedAt": "2026-11-10",
+      "sources": [
+        {
+          "label": "Ouest-France — le ministre Serge Papin",
+          "url": "https://www.ouest-france.fr/economie/transports/carburants-essence-diesel/carburant-serge-papien-ministre-des-pme-nexclut-pas-de-debloquer-davantage-de-stocks-strategiques-408d8490-dcd9-11f1-a62b-776e3051b0df"
+        },
+        {
+          "label": "Europe 1",
+          "url": "https://www.europe1.fr/economie/gazole-la-baisse-des-prix-soulage-un-peu-mais-pas-suffisamment-1199679"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-13",
+      "question": {
+        "id": "q-gazole-stocks",
+        "date": "2026-11-16",
+        "text": "L’État doit-il continuer à puiser dans ses stocks stratégiques pour faire baisser le prix du gazole après janvier ?"
+      }
+    },
+    {
+      "slug": "greve-fonction-publique-point-indice",
+      "category": "Travail",
+      "image": {
+        "emoji": "🏫",
+        "motif": "waves"
+      },
+      "title": "Grève dans la fonction publique le 17 novembre : les syndicats réclament une hausse du point d’indice",
+      "shortTitle": "Fonctionnaires en grève le 17 novembre",
+      "summary": "Tous les syndicats de la fonction publique, CFDT comprise, appellent à la grève le 17 novembre. Ils jugent insuffisantes les annonces du gouvernement sur les bas salaires.",
+      "what": "Après une réunion à Matignon jugée « pour rien », les syndicats de fonctionnaires appellent à la grève le mardi 17 novembre 2026. Ils réclament une hausse importante du point d’indice, qui sert à calculer le salaire des agents publics, et son indexation sur l’inflation.",
+      "why": "Le point d’indice fixe la rémunération de plus de 5 millions d’agents publics. Le relever coûte cher à l’État, dans un contexte de budget très contraint.",
+      "context": [
+        "Selon les syndicats, le point d’indice est gelé pour la quatrième année consécutive.",
+        "Le gouvernement a annoncé huit points d’indice supplémentaires pour les agents les moins bien payés, et ouvert une discussion d’un mois sur les bas salaires.",
+        "Selon le gouvernement, 1 % de hausse du point d’indice coûte 2,4 milliards d’euros."
+      ],
+      "keyFacts": [
+        "Grève de la fonction publique le mardi 17 novembre 2026, avec l’ensemble des syndicats (la CFDT a rejoint l’appel).",
+        "Coût d’une hausse de 1 % du point d’indice : 2,4 milliards d’euros (chiffre du gouvernement).",
+        "+8 points d’indice annoncés pour les agents les moins bien payés."
+      ],
+      "forArgs": [
+        "Les syndicats estiment que l’inflation réduit le pouvoir d’achat des agents publics depuis plusieurs années."
+      ],
+      "againstArgs": [
+        "Le gouvernement met en avant le coût pour les finances publiques et préfère cibler les plus bas salaires."
+      ],
+      "explanations": [
+        {
+          "term": "Point d’indice",
+          "definition": "Valeur de référence qui, multipliée par l’indice de l’agent, donne son traitement de base dans la fonction publique."
+        },
+        {
+          "term": "Indexation",
+          "definition": "Augmentation automatique d’un montant en fonction de l’évolution des prix."
+        }
+      ],
+      "publishedAt": "2026-11-13",
+      "sources": [
+        {
+          "label": "Ouest-France",
+          "url": "https://www.ouest-france.fr/economie/social/une-reunion-pour-rien-a-matignon-les-syndicats-de-la-fonction-publique-appellent-a-la-greve-mardi-17-novembre-ed8a8b5a-df83-11f1-b029-43a761592972"
+        },
+        {
+          "label": "Europe 1",
+          "url": "https://www.europe1.fr/societe/les-syndicats-de-fonctionnaires-sortent-remontes-de-matignon-la-cfdt-rejoint-lappel-a-la-greve-le-17-novembre-1230968"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-13",
+      "question": {
+        "id": "q-point-indice-inflation",
+        "date": "2026-11-17",
+        "text": "Faut-il indexer le salaire des fonctionnaires sur l’inflation ?"
+      }
+    },
+    {
+      "slug": "primaire-droite-centre",
+      "category": "Politique",
+      "image": {
+        "emoji": "🗳️",
+        "motif": "rings"
+      },
+      "title": "Primaire de la droite et du centre : Retailleau propose fin janvier, Philippe refuse",
+      "shortTitle": "Une primaire à droite et au centre ?",
+      "summary": "Bruno Retailleau propose une primaire les 31 janvier et 7 février 2027 pour désigner un candidat commun. Gabriel Attal se dit ouvert, Édouard Philippe refuse d’y participer.",
+      "what": "Bruno Retailleau (LR) a écrit à Édouard Philippe, Gabriel Attal et David Lisnard pour proposer une primaire les 31 janvier et 7 février 2027. Les directeurs de campagne d’Attal, Retailleau et Lisnard se réunissent le 17 novembre pour en discuter. Le porte-parole d’Édouard Philippe affirme qu’il ne participera pas à une primaire, quelles que soient les dates.",
+      "why": "Plusieurs candidats se partagent les mêmes électeurs de droite et du centre. Une primaire permet de n’en présenter qu’un, mais elle peut aussi diviser.",
+      "context": [
+        "David Lisnard plaide depuis longtemps pour une primaire ouverte de la droite et du centre.",
+        "Bruno Retailleau estime que la primaire doit se faire même sans Édouard Philippe.",
+        "Édouard Philippe juge qu’une primaire créerait « de la désunion et de la confusion »."
+      ],
+      "keyFacts": [
+        "Dates proposées : 31 janvier et 7 février 2027.",
+        "Réunion des directeurs de campagne d’Attal, Lisnard et Retailleau le 17 novembre 2026.",
+        "Édouard Philippe refuse d’y participer."
+      ],
+      "forArgs": [
+        "Ses partisans estiment qu’une candidature unique augmente les chances de qualification au second tour."
+      ],
+      "againstArgs": [
+        "Ses opposants, comme Édouard Philippe, pensent qu’une primaire divise le camp et brouille le message."
+      ],
+      "explanations": [
+        {
+          "term": "Primaire",
+          "definition": "Élection organisée par un parti ou un camp politique pour choisir son candidat avant l’élection officielle."
+        },
+        {
+          "term": "Parrainages",
+          "definition": "Signatures d’élus nécessaires pour être candidat à la présidentielle.",
+          "comprendreId": "presidentielle"
+        }
+      ],
+      "publishedAt": "2026-11-12",
+      "sources": [
+        {
+          "label": "LCP",
+          "url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-propose-une-primaire-les-31-janvier-et-7-fevrier-445008"
+        },
+        {
+          "label": "Ouest-France",
+          "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-bruno-retailleau-juge-que-la-primaire-doit-se-faire-meme-sans-edouard-philippe-968add78-df33-11f1-9a29-f4bab172af08"
+        },
+        {
+          "label": "Ouest-France — position de Gabriel Attal",
+          "url": "https://www.ouest-france.fr/elections/presidentielle/malgre-la-confiance-de-gabriel-attal-cela-coince-toujours-pour-la-primaire-de-la-droite-et-du-centre-5e987734-db52-11f1-a45f-49114163a350"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-13",
+      "question": {
+        "id": "q-primaire-candidat-commun",
+        "date": "2026-11-18",
+        "text": "Les partis proches doivent-ils organiser une primaire pour présenter un seul candidat ?"
+      }
+    },
+    {
+      "slug": "imprescriptibilite-crimes-sexuels-mineurs",
+      "category": "Institutions",
+      "image": {
+        "emoji": "🧒",
+        "motif": "dots"
+      },
+      "title": "Protection de l’enfance : le Sénat vote l’imprescriptibilité des crimes sexuels sur mineurs",
+      "shortTitle": "Crimes sexuels sur mineurs : sans délai ?",
+      "summary": "Dans le projet de loi sur la protection des enfants, les sénateurs ont rétabli l’imprescriptibilité des crimes sexuels commis sur des mineurs. Députés et sénateurs doivent encore s’accorder.",
+      "what": "Le Sénat a adopté fin octobre 2026 le projet de loi relatif à la protection des enfants. Les sénateurs ont rétabli l’imprescriptibilité des crimes sexuels sur mineurs, par 252 voix contre 80, alors que leur commission des lois l’avait écartée. Cela signifie que ces crimes pourraient être poursuivis sans limite de temps.",
+      "why": "Beaucoup de victimes ne parviennent à parler que des décennies après les faits. Mais l’imprescriptibilité est aujourd’hui réservée aux crimes contre l’humanité, et des juristes craignent de déstabiliser le droit pénal.",
+      "context": [
+        "Le texte crée aussi une « ordonnance de sûreté de l’enfant », rétablie au Sénat à une voix près (171 contre 170), et étend le contrôle d’honorabilité des personnes au contact de mineurs.",
+        "Le numéro national de l’enfance en danger (119) serait géré par l’État à partir du 1er janvier 2028.",
+        "Députés et sénateurs doivent encore se mettre d’accord en commission mixte paritaire ; le gouvernement vise une adoption définitive début 2027."
+      ],
+      "keyFacts": [
+        "Vote du Sénat sur l’imprescriptibilité : 252 voix pour, 80 contre.",
+        "Aujourd’hui, en France, seuls les crimes contre l’humanité sont imprescriptibles.",
+        "Le texte n’est pas encore définitivement adopté."
+      ],
+      "forArgs": [
+        "Les partisans soulignent que de nombreuses victimes ne peuvent dénoncer les faits que très tard."
+      ],
+      "againstArgs": [
+        "Les rapporteures de la commission des lois du Sénat craignaient de « déstabiliser le droit pénal » et rappelaient la difficulté de juger des faits très anciens."
+      ],
+      "explanations": [
+        {
+          "term": "Prescription",
+          "definition": "Délai au-delà duquel une infraction ne peut plus être poursuivie en justice."
+        },
+        {
+          "term": "Commission mixte paritaire",
+          "definition": "Réunion de 7 députés et 7 sénateurs chargée de trouver un texte commun quand les deux chambres ne sont pas d’accord.",
+          "comprendreId": "assemblee-nationale"
+        }
+      ],
+      "publishedAt": "2026-11-04",
+      "sources": [
+        {
+          "label": "Public Sénat — imprescriptibilité rétablie",
+          "url": "https://www.publicsenat.fr/actualites/parlementaire/protection-de-lenfance-le-senat-retablit-limprescriptibilite-des-crimes-sexuels-sur-mineurs"
+        },
+        {
+          "label": "Public Sénat — que contient le projet de loi ?",
+          "url": "https://www.publicsenat.fr/actualites/parlementaire/protection-de-lenfance-imprescriptibilite-controle-dhonorabilite-que-contient-le-projet-de-loi-modifie-par-le-senat"
+        },
+        {
+          "label": "Public Sénat — l’avis des rapporteures",
+          "url": "https://www.publicsenat.fr/actualites/parlementaire/protection-de-lenfance-au-senat-les-rapporteures-rejettent-limprescriptibilite-pour-ne-pas-destabiliser-le-droit-penal"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-13",
+      "question": {
+        "id": "q-imprescriptibilite-mineurs",
+        "date": "2026-11-19",
+        "text": "Les crimes sexuels commis sur des mineurs doivent-ils pouvoir être jugés sans limite de temps ?"
+      }
+    },
+    {
+      "slug": "loi-integrale-violences-sexistes-sexuelles",
+      "category": "Société",
+      "image": {
+        "emoji": "🤝",
+        "motif": "rings"
+      },
+      "title": "Violences sexistes et sexuelles : la « loi intégrale » attend son passage au Sénat",
+      "shortTitle": "Une justice spécialisée pour les violences sexuelles ?",
+      "summary": "Adoptée à l’unanimité des votants par l’Assemblée nationale, la « loi intégrale » prévoit notamment une justice et des unités de police spécialisées. Le Sénat doit l’examiner, probablement en janvier.",
+      "what": "Le 13 octobre 2026, l’Assemblée nationale a adopté la « loi intégrale » contre les violences sexistes et sexuelles (503 voix pour, aucune contre, 67 abstentions). Passé de 69 à plus de 110 articles, le texte prévoit notamment des unités de police spécialisées, une justice spécialisée et un parcours de soins pour les mineurs victimes.",
+      "why": "Le texte veut regrouper dans une seule loi des mesures aujourd’hui dispersées. Son calendrier au Sénat déterminera s’il peut être définitivement adopté avant la présidentielle.",
+      "context": [
+        "Le Sénat devrait examiner le texte en janvier ; le gouvernement cherche un créneau plus tôt.",
+        "Le ministre des Comptes publics a estimé son coût à terme entre 3 et 4 milliards d’euros par an.",
+        "Des associations craignent que le Sénat réduise la portée du texte."
+      ],
+      "keyFacts": [
+        "Vote de l’Assemblée nationale : 503 pour, 0 contre, 67 abstentions (13 octobre 2026).",
+        "Plus de 110 articles après les débats.",
+        "Coût estimé : 3 à 4 milliards d’euros par an à terme (estimation du ministre)."
+      ],
+      "forArgs": [
+        "Ses défenseurs estiment qu’une justice spécialisée traiterait les plaintes plus vite et mieux."
+      ],
+      "againstArgs": [
+        "Ses critiques s’interrogent sur le coût et sur la création de juridictions spécialisées dans un système judiciaire déjà sous tension."
+      ],
+      "explanations": [
+        {
+          "term": "Loi « intégrale »",
+          "definition": "Loi qui regroupe en un seul texte la prévention, la protection des victimes, l’enquête et la justice."
+        },
+        {
+          "term": "Navette parlementaire",
+          "definition": "Un texte est examiné successivement par les deux assemblées avant son adoption définitive.",
+          "comprendreId": "assemblee-nationale"
+        }
+      ],
+      "publishedAt": "2026-11-13",
+      "sources": [
+        {
+          "label": "LCP",
+          "url": "https://lcp.fr/actualites/la-loi-integrale-contre-les-violences-sexuelles-et-sexistes-adoptee-a-l-unanimite-par-l"
+        },
+        {
+          "label": "Ouest-France",
+          "url": "https://www.ouest-france.fr/politique/institutions/assemblee-nationale/lassemblee-nationale-vote-la-loi-integrale-contre-les-violences-sexistes-et-sexuelles-a-lunanimite-c38a2a7a-c6e4-11f1-b3f5-183597cb1094"
+        },
+        {
+          "label": "LCP — dossier",
+          "url": "https://lcp.fr/dossiers/loi-integrale-contre-les-violences-sexuelles-et-sexistes-441435"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-13",
+      "question": {
+        "id": "q-justice-specialisee-vss",
+        "date": "2026-11-20",
+        "text": "Faut-il créer une justice spécialisée dans les violences sexistes et sexuelles ?"
+      }
+    },
+    {
+      "slug": "parrainages-presidentielle",
+      "category": "Politique",
+      "image": {
+        "emoji": "✍️",
+        "motif": "stripes"
+      },
+      "title": "Présidentielle 2027 : la course aux 500 parrainages a commencé",
+      "shortTitle": "Les 500 parrainages, un filtre juste ?",
+      "summary": "Plus de vingt personnes ont déclaré leur candidature, mais seules celles qui réuniront 500 signatures d’élus avant le 12 mars 2027 seront sur le bulletin.",
+      "what": "Pour se présenter à la présidentielle, il faut recueillir au moins 500 parrainages d’élus (maires, parlementaires, conseillers départementaux et régionaux…), venant d’au moins 30 départements ou collectivités d’outre-mer. Pour 2027, la date limite est fixée au 12 mars. Plusieurs petits candidats disent avoir commencé à démarcher les élus.",
+      "why": "Les parrainages évitent un nombre trop élevé de candidats, mais ils peuvent aussi écarter des personnes qui ont un soutien réel dans la population.",
+      "context": [
+        "Plus de vingt candidatures ont été déclarées pour 2027 ; la liste officielle sera publiée par le Conseil constitutionnel.",
+        "En 2022, des candidats comme Anasse Kazib (160 parrainages) ou la candidate du Parti animaliste n’avaient pas atteint le seuil.",
+        "Depuis 2016, les noms de tous les élus parrains sont rendus publics."
+      ],
+      "keyFacts": [
+        "Seuil : 500 parrainages d’élus, venant d’au moins 30 départements ou collectivités d’outre-mer.",
+        "Date limite pour 2027 : 12 mars.",
+        "Premier tour le 18 avril 2027, second tour le 2 mai."
+      ],
+      "forArgs": [
+        "Des petits candidats et des élus estiment que le système avantage les grands partis, et proposent des signatures de citoyens à la place ou en plus."
+      ],
+      "againstArgs": [
+        "Ses défenseurs jugent que le filtre des élus garantit des candidatures sérieuses et un nombre raisonnable de candidats."
+      ],
+      "explanations": [
+        {
+          "term": "Parrainage",
+          "definition": "Signature d’un élu qui « présente » un candidat à la présidentielle ; chaque élu ne peut parrainer qu’une personne.",
+          "comprendreId": "presidentielle"
+        }
+      ],
+      "publishedAt": "2026-11-13",
+      "sources": [
+        {
+          "label": "LCP — la liste des candidats",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+        },
+        {
+          "label": "Ouest-France — un candidat en quête de parrainages",
+          "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-francois-asselineau-a-la-recherche-de-soutiens-en-normandie-pour-sa-candidature-a107e84c-7096-11f1-a6cc-3a2a661228b1"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-13",
+      "question": {
+        "id": "q-parrainages-citoyens",
+        "date": "2026-11-21",
+        "text": "Faut-il pouvoir se présenter à la présidentielle avec des signatures de citoyens plutôt que d’élus ?"
+      }
     }
   ]
 }
