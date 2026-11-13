@@ -11,6 +11,13 @@
         "emoji": "💶",
         "motif": "waves"
       },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/H%C3%A9micycle_2_Palais_Bourbon_scropp%C3%A9.jpg/960px-H%C3%A9micycle_2_Palais_Bourbon_scropp%C3%A9.jpg",
+        "alt": "L'hémicycle de l'Assemblée nationale, au Palais Bourbon",
+        "author": "Chatsam",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:H%C3%A9micycle_2_Palais_Bourbon_scropp%C3%A9.jpg"
+      },
       "title": "Budget 2027 : l’Assemblée rejette le projet, le texte part au Sénat",
       "shortTitle": "Budget 2027 rejeté à l’Assemblée",
       "summary": "Aucun député n’a voté la partie « recettes » du budget de l’État pour 2027. Le texte initial du gouvernement est transmis au Sénat.",
@@ -79,6 +86,13 @@
         "emoji": "⚖️",
         "motif": "stripes"
       },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Palais_du_Luxembourg%2C_South_View_140116_1.jpg/960px-Palais_du_Luxembourg%2C_South_View_140116_1.jpg",
+        "alt": "Le Palais du Luxembourg, siège du Sénat, à Paris",
+        "author": "DXR",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_du_Luxembourg,_South_View_140116_1.jpg"
+      },
       "title": "Loi « casseurs-payeurs » : le Sénat adopte une version durcie",
       "shortTitle": "La loi « casseurs-payeurs »",
       "summary": "Le texte rendrait les participants à un attroupement violent responsables ensemble des dégâts, dans la limite de 10 000 euros par personne. Il est maintenant à l’Assemblée.",
@@ -142,6 +156,13 @@
         "emoji": "💼",
         "motif": "dots"
       },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Argent_%2868157709%29.jpeg/960px-Argent_%2868157709%29.jpeg",
+        "alt": "Des billets de 20 euros",
+        "author": "Richard Revel",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Argent_(68157709).jpeg"
+      },
       "title": "Le Smic augmente de 1,6 % dès le 1er décembre",
       "shortTitle": "Smic : +1,6 % au 1er décembre",
       "summary": "Annoncé lors d’une conférence sociale à Matignon, le Smic passera à environ 1 502 euros nets par mois. Les syndicats jugent la hausse insuffisante.",
@@ -202,6 +223,13 @@
       "image": {
         "emoji": "🎒",
         "motif": "rings"
+      },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Blocus_devant_l%27entr%C3%A9e_principale_du_lyc%C3%A9e_C%C3%A9zanne_%C3%A0_Aix-en-Provence%2C_le_3_Nov_2026_01.jpg/960px-Blocus_devant_l%27entr%C3%A9e_principale_du_lyc%C3%A9e_C%C3%A9zanne_%C3%A0_Aix-en-Provence%2C_le_3_Nov_2026_01.jpg",
+        "alt": "Poubelles devant l'entrée du lycée Cézanne à Aix-en-Provence, bloqué le 3 novembre 2026",
+        "author": "Gabriel from92",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blocus_devant_l%27entr%C3%A9e_principale_du_lyc%C3%A9e_C%C3%A9zanne_%C3%A0_Aix-en-Provence,_le_3_Nov_2026_01.jpg"
       },
       "title": "Blocages de lycées : le gouvernement veut des sanctions systématiques",
       "shortTitle": "Lycées bloqués : sanctionner ?",
@@ -265,6 +293,13 @@
         "emoji": "🧓",
         "motif": "waves"
       },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Palais_Luxembourg_Sunset.JPG/960px-Palais_Luxembourg_Sunset.JPG",
+        "alt": "Le Palais du Luxembourg, où siège le Sénat",
+        "author": "Benh Lieu Song, Nicolas Sanchez",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_Luxembourg_Sunset.JPG"
+      },
       "title": "Budget de la Sécu : le gel de la réforme des retraites en débat au Sénat",
       "shortTitle": "Retraites : le gel en débat",
       "summary": "Le budget de la Sécurité sociale pour 2027 maintient l’âge légal gelé à 62 ans et 9 mois jusqu’en janvier 2028. La majorité sénatoriale veut rétablir la réforme de 2023.",
@@ -322,6 +357,13 @@
         "emoji": "🎙️",
         "motif": "rings"
       },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Tour_TF1_%E2%80%93_Boulogne-Billancourt.jpg/960px-Tour_TF1_%E2%80%93_Boulogne-Billancourt.jpg",
+        "alt": "La tour TF1 à Boulogne-Billancourt",
+        "author": "Edison McCullen",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tour_TF1_%E2%80%93_Boulogne-Billancourt.jpg"
+      },
       "title": "Premier grand débat présidentiel lundi, sans Édouard Philippe",
       "shortTitle": "Un débat à 5 candidats",
       "summary": "Cinq candidats débattent le 16 novembre sur LCI et TF1, en partenariat avec les Restos du cœur. Édouard Philippe a décliné l’invitation.",
@@ -378,6 +420,13 @@
         "emoji": "🎓",
         "motif": "dots"
       },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Capture_d%27%C3%A9cran_de_la_page_d%27accueil_fran%C3%A7aise_de_Parcoursup_le_1er_juin_2026.png/960px-Capture_d%27%C3%A9cran_de_la_page_d%27accueil_fran%C3%A7aise_de_Parcoursup_le_1er_juin_2026.png",
+        "alt": "La page d'accueil du site Parcoursup (juin 2026)",
+        "author": "Dr-non07",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capture_d%27%C3%A9cran_de_la_page_d%27accueil_fran%C3%A7aise_de_Parcoursup_le_1er_juin_2026.png"
+      },
       "title": "Parcoursup : le gouvernement promet un remplacement d’ici 2028, les lycéens demandent sa fin",
       "shortTitle": "Faut-il en finir avec Parcoursup ?",
       "summary": "Sous la pression du mouvement lycéen et étudiant, le gouvernement a lancé un chantier pour transformer Parcoursup dès 2027 et le remplacer en 2028. La réunion de lancement à Matignon a tourné court.",
@@ -433,6 +482,13 @@
       "image": {
         "emoji": "⛽",
         "motif": "stripes"
+      },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Plein_de_diesel_Station_service_pr%C3%A8s_de_Grenoble_%2826_septembre_2026%29.JPG/960px-Plein_de_diesel_Station_service_pr%C3%A8s_de_Grenoble_%2826_septembre_2026%29.JPG",
+        "alt": "Une pompe à gazole dans une station-service près de Grenoble (septembre 2026)",
+        "author": "Florian Pépellin",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plein_de_diesel_Station_service_pr%C3%A8s_de_Grenoble_(26_septembre_2026).JPG"
       },
       "title": "Gazole moins cher : l’État puise dans ses stocks stratégiques",
       "shortTitle": "Le gazole baisse grâce aux stocks de l’État",
@@ -542,6 +598,13 @@
         "emoji": "🗳️",
         "motif": "rings"
       },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Urne_%C3%A9lectorale_J3.jpg/960px-Urne_%C3%A9lectorale_J3.jpg",
+        "alt": "Une urne dans un bureau de vote",
+        "author": "Jamain",
+        "license": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Urne_%C3%A9lectorale_J3.jpg"
+      },
       "title": "Primaire de la droite et du centre : Retailleau propose fin janvier, Philippe refuse",
       "shortTitle": "Une primaire à droite et au centre ?",
       "summary": "Bruno Retailleau propose une primaire les 31 janvier et 7 février 2027 pour désigner un candidat commun. Gabriel Attal se dit ouvert, Édouard Philippe refuse d’y participer.",
@@ -602,6 +665,13 @@
       "image": {
         "emoji": "🧒",
         "motif": "dots"
+      },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Tribunal_de_Paris_seen_from_Batignolles_park.jpg/960px-Tribunal_de_Paris_seen_from_Batignolles_park.jpg",
+        "alt": "Le tribunal de Paris, aux Batignolles",
+        "author": "Coppertarzan",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tribunal_de_Paris_seen_from_Batignolles_park.jpg"
       },
       "title": "Protection de l’enfance : le Sénat vote l’imprescriptibilité des crimes sexuels sur mineurs",
       "shortTitle": "Crimes sexuels sur mineurs : sans délai ?",
@@ -664,6 +734,13 @@
         "emoji": "🤝",
         "motif": "rings"
       },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Place_Vend%C3%B4me_-_Minist%C3%A8re_de_la_Justice_%28Paris%29.jpg/960px-Place_Vend%C3%B4me_-_Minist%C3%A8re_de_la_Justice_%28Paris%29.jpg",
+        "alt": "Le ministère de la Justice, place Vendôme à Paris",
+        "author": "Gzen92",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Place_Vend%C3%B4me_-_Minist%C3%A8re_de_la_Justice_(Paris).jpg"
+      },
       "title": "Violences sexistes et sexuelles : la « loi intégrale » attend son passage au Sénat",
       "shortTitle": "Une justice spécialisée pour les violences sexuelles ?",
       "summary": "Adoptée à l’unanimité des votants par l’Assemblée nationale, la « loi intégrale » prévoit notamment une justice et des unités de police spécialisées. Le Sénat doit l’examiner, probablement en janvier.",
@@ -724,6 +801,13 @@
       "image": {
         "emoji": "✍️",
         "motif": "stripes"
+      },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Conseil_Constitutionnel_Paris.jpg/960px-Conseil_Constitutionnel_Paris.jpg",
+        "alt": "L'entrée du Conseil constitutionnel, qui reçoit les parrainages",
+        "author": "Jebulon",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Conseil_Constitutionnel_Paris.jpg"
       },
       "title": "Présidentielle 2027 : la course aux 500 parrainages a commencé",
       "shortTitle": "Les 500 parrainages, un filtre juste ?",
