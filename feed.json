@@ -1,0 +1,375 @@
+{
+  "format": "govote-feed",
+  "version": 1,
+  "updatedAt": "2026-11-13",
+  "_lisezmoi": "Fichier éditorial de GO VOTE. Une entrée = une actualité réelle + (facultatif) sa question du jour. Règles : faits sourcés, formulation neutre, une seule idée par question, 'Sans avis' toujours possible. Dates au format AAAA-MM-JJ (jour de Paris). Voir editorial/README.md.",
+  "topics": [
+    {
+      "slug": "budget-2027-rejete-assemblee",
+      "category": "Économie",
+      "image": {
+        "emoji": "💶",
+        "motif": "waves"
+      },
+      "title": "Budget 2027 : l’Assemblée rejette le projet, le texte part au Sénat",
+      "shortTitle": "Budget 2027 rejeté à l’Assemblée",
+      "summary": "Aucun député n’a voté la partie « recettes » du budget de l’État pour 2027. Le texte initial du gouvernement est transmis au Sénat.",
+      "what": "Le 4 novembre 2026, l’Assemblée nationale a rejeté la partie « recettes » du projet de loi de finances pour 2027 (458 voix contre, aucune pour). Le texte, très modifié pendant les débats, ne convenait à aucun groupe. C’est donc la version initiale du gouvernement qui part au Sénat.",
+      "why": "Sans budget voté, l’État ne peut pas fixer ses recettes et ses dépenses de l’année. Si le Parlement ne se prononce pas à temps, la Constitution permet au gouvernement d’adopter le budget par ordonnances, ce qui n’est encore jamais arrivé.",
+      "context": [
+        "Le Sénat doit examiner le projet de loi de finances du 20 novembre au 8 décembre, avec un vote solennel prévu le 9 décembre.",
+        "La Constitution (article 47) laisse 70 jours au Parlement pour se prononcer sur le budget. Passé ce délai, ses dispositions peuvent être mises en vigueur par ordonnance : selon Public Sénat, ce serait possible après le 17 décembre.",
+        "Le Premier ministre, Sébastien Lecornu, pourrait aussi recourir au 49.3, ce qui exposerait son gouvernement à une motion de censure."
+      ],
+      "keyFacts": [
+        "Vote du 4 novembre 2026 : 458 voix contre la partie « recettes », aucune pour.",
+        "Le Budget de la Sécurité sociale avait déjà vu sa partie « recettes » rejetée par les députés le 23 octobre.",
+        "Un budget adopté par ordonnances serait une première sous la Ve République."
+      ],
+      "forArgs": [
+        "Le recours aux ordonnances garantit que l’État aura un budget au 1er janvier.",
+        "La procédure est prévue par la Constitution pour éviter un blocage."
+      ],
+      "againstArgs": [
+        "Le budget est le cœur du rôle du Parlement : s’en passer affaiblirait la démocratie parlementaire.",
+        "Des ordonnances reprendraient un texte que les députés ont unanimement rejeté."
+      ],
+      "explanations": [
+        {
+          "term": "Projet de loi de finances (PLF)",
+          "definition": "Le texte qui fixe chaque année les recettes et les dépenses de l’État.",
+          "comprendreId": "budget-etat"
+        },
+        {
+          "term": "Ordonnance",
+          "definition": "Texte adopté par le gouvernement dans un domaine qui relève normalement de la loi, dans des cas prévus par la Constitution."
+        },
+        {
+          "term": "49.3",
+          "definition": "Article qui permet au gouvernement de faire adopter un texte sans vote, sauf si une motion de censure est votée.",
+          "comprendreId": "49-3"
+        }
+      ],
+      "publishedAt": "2026-11-05",
+      "sources": [
+        {
+          "label": "Ouest-France",
+          "url": "https://www.ouest-france.fr/economie/budget-collectivites-etat/budget-2027-lassemblee-nationale-rejette-a-lunanimite-en-premiere-lecture-le-projet-du-gouvernement-3c52a04e-d8a2-11f1-a1e1-ae8104d72c9a"
+        },
+        {
+          "label": "Public Sénat — calendrier, 49.3, ordonnances",
+          "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-calendrier-49-3-ordonnancesquelles-sont-les-echeances-a-venir-et-les-scenarios-possibles"
+        },
+        {
+          "label": "LCP",
+          "url": "https://lcp.fr/actualites/budget-2027-l-assemblee-rejette-a-l-unanimite-la-partie-recettes-le-projet-de-loi-de"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-13",
+      "question": {
+        "id": "q-budget-ordonnances",
+        "date": "2026-11-07",
+        "text": "Si le Parlement ne vote pas le budget à temps, le gouvernement doit-il pouvoir l’adopter par ordonnances ?"
+      }
+    },
+    {
+      "slug": "loi-casseurs-payeurs",
+      "category": "Institutions",
+      "image": {
+        "emoji": "⚖️",
+        "motif": "stripes"
+      },
+      "title": "Loi « casseurs-payeurs » : le Sénat adopte une version durcie",
+      "shortTitle": "La loi « casseurs-payeurs »",
+      "summary": "Le texte rendrait les participants à un attroupement violent responsables ensemble des dégâts, dans la limite de 10 000 euros par personne. Il est maintenant à l’Assemblée.",
+      "what": "Dans la nuit du 27 au 28 octobre 2026, le Sénat a adopté le projet de loi « casseurs-payeurs » par 229 voix contre 105. Il crée une responsabilité « solidaire » : les personnes qui ont sciemment participé à un attroupement violent pourraient devoir payer les dégâts, même sans les avoir causés elles-mêmes, jusqu’à 10 000 euros chacune.",
+      "why": "Le texte touche à la fois à l’indemnisation des dégâts et à la liberté de manifester. Il fait suite aux violences du 17 octobre.",
+      "context": [
+        "Le Sénat a ajouté une interdiction individuelle de manifester décidée par le préfet, et des peines pour la participation à une manifestation interdite (six mois de prison et 7 500 euros d’amende).",
+        "Certaines prestations sociales (allocations familiales, aides au logement, RSA) pourraient être saisies pour payer les dommages.",
+        "Le texte doit maintenant être examiné par l’Assemblée nationale. Des juristes doutent de sa conformité à la Constitution ; le Conseil d’État avait rendu un avis favorable."
+      ],
+      "keyFacts": [
+        "Vote du Sénat : 229 voix pour, 105 contre.",
+        "Plafond de la responsabilité : 10 000 euros par personne.",
+        "Sont visés ceux qui ont « sciemment participé » à un groupement violent, ou qui y restent après deux sommations."
+      ],
+      "forArgs": [
+        "« Celui qui casse doit payer » : les victimes et les communes seraient mieux indemnisées.",
+        "Le texte vise à dissuader les violences en marge des manifestations."
+      ],
+      "againstArgs": [
+        "La gauche y voit une atteinte à la liberté de manifester.",
+        "Faire payer des personnes qui n’ont pas causé les dégâts pose une question de justice, selon ses opposants."
+      ],
+      "explanations": [
+        {
+          "term": "Responsabilité solidaire",
+          "definition": "Plusieurs personnes peuvent chacune être tenues de payer la totalité ou une partie d’un dommage commun."
+        },
+        {
+          "term": "Navette parlementaire",
+          "definition": "Un projet de loi est examiné successivement par le Sénat et l’Assemblée nationale jusqu’à un accord.",
+          "comprendreId": "assemblee-nationale"
+        }
+      ],
+      "publishedAt": "2026-10-28",
+      "sources": [
+        {
+          "label": "Public Sénat",
+          "url": "https://www.publicsenat.fr/actualites/parlementaire/le-senat-adopte-le-projet-de-loi-casseurs-payeurs-apres-lavoir-largement-durci"
+        },
+        {
+          "label": "LCP",
+          "url": "https://lcp.fr/actualites/projet-de-loi-casseurs-payeurs-le-texte-transmis-a-l-assemblee-apres-son-adoption-au"
+        },
+        {
+          "label": "Public Sénat — que contient le texte ?",
+          "url": "https://www.publicsenat.fr/actualites/parlementaire/loi-casseurs-payeurs-que-contient-le-texte-examine-au-senat"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-13",
+      "question": {
+        "id": "q-casseurs-payeurs",
+        "date": "2026-11-08",
+        "text": "Les participants à une manifestation violente doivent-ils payer ensemble les dégâts, même s’ils ne les ont pas commis eux-mêmes ?"
+      }
+    },
+    {
+      "slug": "smic-hausse-decembre-2026",
+      "category": "Travail",
+      "image": {
+        "emoji": "💼",
+        "motif": "dots"
+      },
+      "title": "Le Smic augmente de 1,6 % dès le 1er décembre",
+      "shortTitle": "Smic : +1,6 % au 1er décembre",
+      "summary": "Annoncé lors d’une conférence sociale à Matignon, le Smic passera à environ 1 502 euros nets par mois. Les syndicats jugent la hausse insuffisante.",
+      "what": "Le 9 novembre 2026, le Premier ministre Sébastien Lecornu a annoncé une hausse anticipée du Smic de 1,6 % au 1er décembre : il passera de 1 477,93 à environ 1 502 euros nets par mois. La hausse combine 1 % lié à l’inflation et un « coup de pouce » de 0,6 point, le premier depuis 2012.",
+      "why": "Le Smic concerne directement des millions de salariés et pèse sur le coût du travail pour les entreprises. L’annonce intervient dans un contexte de mobilisation sociale.",
+      "context": [
+        "Le Smic est normalement revalorisé chaque 1er janvier selon une formule légale ; le gouvernement peut décider d’aller au-delà (« coup de pouce »).",
+        "Le gouvernement a aussi annoncé un comité de suivi des salaires, une baisse du prix du gazole de 21 centimes par litre et l’élargissement de la prime de partage de la valeur aux entreprises de plus de 50 salariés.",
+        "L’intersyndicale appelle à une nouvelle journée de grève et de manifestations le 17 novembre."
+      ],
+      "keyFacts": [
+        "Smic net mensuel : de 1 477,93 € à environ 1 502 € au 1er décembre 2026.",
+        "Premier coup de pouce gouvernemental depuis 2012 (0,6 point).",
+        "Revendications syndicales non retenues : +100 € (CFDT), +10 % (CGT)."
+      ],
+      "forArgs": [
+        "Les syndicats (CFDT, CGT) jugent la hausse « insuffisante » face au coût de la vie et demandent davantage."
+      ],
+      "againstArgs": [
+        "Le patronat (Medef) s’inquiète du coût pour les entreprises et estime que la mesure répond mal au problème.",
+        "Une hausse plus forte du Smic pourrait, selon ses opposants, freiner les embauches peu qualifiées."
+      ],
+      "explanations": [
+        {
+          "term": "Smic",
+          "definition": "Salaire minimum interprofessionnel de croissance : le salaire horaire minimum légal en France."
+        },
+        {
+          "term": "Coup de pouce",
+          "definition": "Hausse du Smic décidée par le gouvernement en plus de la revalorisation automatique."
+        }
+      ],
+      "publishedAt": "2026-11-09",
+      "sources": [
+        {
+          "label": "Public Sénat",
+          "url": "https://www.publicsenat.fr/actualites/politique/pouvoir-dachat-sebastien-lecornu-annonce-une-hausse-anticipee-du-smic-a-1-502-euros-des-le-1er-decembre"
+        },
+        {
+          "label": "LCP — les réactions",
+          "url": "https://lcp.fr/actualites/hausse-du-smic-a-1502-euros-l-annonce-du-gouvernement-n-a-convaincu-ni-les-syndicats-ni"
+        },
+        {
+          "label": "Europe 1",
+          "url": "https://www.europe1.fr/economie/hausse-du-smic-de-16-un-coup-de-pouce-salue-par-les-syndicats-mais-qui-inquiete-le-patronat-1222322"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-13",
+      "question": {
+        "id": "q-smic-plus-fort",
+        "date": "2026-11-10",
+        "text": "Faut-il augmenter le Smic plus fortement que les 1,6 % annoncés pour le 1er décembre ?"
+      }
+    },
+    {
+      "slug": "blocus-lycees-sanctions",
+      "category": "Éducation",
+      "image": {
+        "emoji": "🎒",
+        "motif": "rings"
+      },
+      "title": "Blocages de lycées : le gouvernement veut des sanctions systématiques",
+      "shortTitle": "Lycées bloqués : sanctionner ?",
+      "summary": "Face aux blocus et aux violences aux abords de certains lycées, l’exécutif demande des poursuites disciplinaires systématiques. Les chiffres de la mobilisation sont contestés.",
+      "what": "Mi-novembre 2026, un télégramme cité par l’AFP demande de généraliser les poursuites disciplinaires contre les élèves et les personnels qui participent à des blocus. Le ministre de l’Éducation nationale, Édouard Geffray, juge illégal d’empêcher l’accès aux salles de classe.",
+      "why": "Le sujet oppose le droit d’étudier, la sécurité dans et autour des établissements, et la liberté d’expression des lycéens mobilisés.",
+      "context": [
+        "Selon le gouvernement, les violences liées aux blocus ont fait 609 blessés, dont 364 élèves et 245 personnels.",
+        "Le ministère parle d’une petite minorité de lycées bloqués ; le syndicat de chefs d’établissement SNPDEN-Unsa conteste ces chiffres, et l’Union syndicale lycéenne revendique des centaines d’établissements bloqués certains jours.",
+        "La région Île-de-France a annoncé que les élèves exclus pour violences ou dégradations perdraient certaines aides régionales."
+      ],
+      "keyFacts": [
+        "Le gouvernement demande une saisine « systématique » de la justice pour les actes délictueux près des lycées.",
+        "609 blessés recensés selon le gouvernement (364 élèves, 245 personnels).",
+        "Nouvelles mobilisations annoncées les 14 et 17 novembre."
+      ],
+      "forArgs": [
+        "Empêcher l’accès aux cours prive les autres élèves de leur droit d’étudier.",
+        "Des sanctions claires peuvent dissuader les violences aux abords des établissements."
+      ],
+      "againstArgs": [
+        "Des sanctions systématiques risquent de punir la simple participation à une mobilisation.",
+        "Des organisations lycéennes et des personnels estiment qu’il faut d’abord répondre aux revendications."
+      ],
+      "explanations": [
+        {
+          "term": "Blocus",
+          "definition": "Action qui consiste à empêcher l’entrée dans un établissement scolaire pour protester."
+        },
+        {
+          "term": "Sanction disciplinaire",
+          "definition": "Mesure décidée par l’établissement (avertissement, exclusion…), distincte d’une poursuite pénale."
+        }
+      ],
+      "publishedAt": "2026-11-12",
+      "sources": [
+        {
+          "label": "Public Sénat",
+          "url": "https://www.publicsenat.fr/actualites/education/violences-en-marge-des-blocus-lyceens-le-gouvernement-durcit-le-ton"
+        },
+        {
+          "label": "Europe 1",
+          "url": "https://www.europe1.fr/societe/lycees-le-gouvernement-promet-des-sanctions-quand-lacces-aux-salles-est-compromis-1212947"
+        },
+        {
+          "label": "Ouest-France",
+          "url": "https://www.ouest-france.fr/societe/manifestation/direct-blocages-des-lycees-le-gouvernement-veut-systematiser-les-sanctions-disciplinaires-en-cas-de-blocus-44326c56-8473-43c1-b3dd-68f3f359951e"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-13",
+      "question": {
+        "id": "q-blocus-sanctions",
+        "date": "2026-11-12",
+        "text": "Faut-il des sanctions disciplinaires systématiques pour les élèves qui bloquent l’accès à leur lycée ?"
+      }
+    },
+    {
+      "slug": "retraites-budget-secu-senat",
+      "category": "Travail",
+      "image": {
+        "emoji": "🧓",
+        "motif": "waves"
+      },
+      "title": "Budget de la Sécu : le gel de la réforme des retraites en débat au Sénat",
+      "shortTitle": "Retraites : le gel en débat",
+      "summary": "Le budget de la Sécurité sociale pour 2027 maintient l’âge légal gelé à 62 ans et 9 mois jusqu’en janvier 2028. La majorité sénatoriale veut rétablir la réforme de 2023.",
+      "what": "Le Sénat examine en novembre 2026 le projet de loi de financement de la Sécurité sociale pour 2027. Le texte prolonge le gel de la réforme des retraites de 2023 : l’âge légal resterait à 62 ans et 9 mois jusqu’en janvier 2028, au lieu de continuer à monter vers 64 ans. La commission des affaires sociales du Sénat propose de rétablir la réforme.",
+      "why": "L’âge de départ à la retraite concerne tous les actifs et pèse fortement sur les comptes de la Sécurité sociale. Le vote solennel du Sénat est prévu le 18 novembre.",
+      "context": [
+        "La réforme de 2023 prévoit un report progressif de l’âge légal de 62 à 64 ans.",
+        "Plus de 1 200 amendements ont été déposés au Sénat sur le budget de la Sécurité sociale.",
+        "Après le Sénat, les deux assemblées devront tenter de trouver une version commune, vers la fin novembre."
+      ],
+      "keyFacts": [
+        "Âge légal gelé à 62 ans et 9 mois jusqu’en janvier 2028 dans le texte du gouvernement.",
+        "Vote solennel du Sénat sur l’ensemble du texte prévu le 18 novembre 2026.",
+        "La majorité sénatoriale (droite et centre) veut rétablir la réforme de 2023."
+      ],
+      "forArgs": [
+        "Les partisans du gel jugent la réforme de 2023 injuste pour les carrières longues et pénibles."
+      ],
+      "againstArgs": [
+        "La majorité sénatoriale juge le gel trop coûteux pour les comptes de la Sécurité sociale.",
+        "Les défenseurs de la réforme estiment qu’elle est nécessaire pour l’équilibre du système de retraites."
+      ],
+      "explanations": [
+        {
+          "term": "PLFSS",
+          "definition": "Projet de loi de financement de la Sécurité sociale : le budget annuel de la Sécu (santé, retraites, famille)."
+        },
+        {
+          "term": "Âge légal",
+          "definition": "Âge minimum à partir duquel on peut partir à la retraite (hors dispositifs particuliers)."
+        }
+      ],
+      "publishedAt": "2026-11-13",
+      "sources": [
+        {
+          "label": "Public Sénat — les points chauds du débat",
+          "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre"
+        },
+        {
+          "label": "Public Sénat — calendrier budgétaire",
+          "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-calendrier-49-3-ordonnancesquelles-sont-les-echeances-a-venir-et-les-scenarios-possibles"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-13",
+      "question": {
+        "id": "q-retraites-gel",
+        "date": "2026-11-13",
+        "text": "Faut-il maintenir le gel de l’âge de départ à la retraite jusqu’en 2028 ?"
+      }
+    },
+    {
+      "slug": "debat-presidentiel-tf1-lci",
+      "category": "Politique",
+      "image": {
+        "emoji": "🎙️",
+        "motif": "rings"
+      },
+      "title": "Premier grand débat présidentiel lundi, sans Édouard Philippe",
+      "shortTitle": "Un débat à 5 candidats",
+      "summary": "Cinq candidats débattent le 16 novembre sur LCI et TF1, en partenariat avec les Restos du cœur. Édouard Philippe a décliné l’invitation.",
+      "what": "Lundi 16 novembre 2026, LCI et TF1 diffusent un débat consacré à la solidarité, au pouvoir d’achat et à la précarité, depuis un entrepôt des Restos du cœur. Sont annoncés Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Gabriel Attal. Édouard Philippe ne participera pas.",
+      "why": "Les débats télévisés comptent dans le choix de nombreux électeurs, et la question de savoir qui y est invité touche à l’égalité entre candidats.",
+      "context": [
+        "Selon son entourage, Édouard Philippe préside ce soir-là le conseil municipal du Havre, et souhaite éviter une confrontation directe avec de potentiels alliés.",
+        "Avant la campagne officielle, les médias appliquent un principe d’équité du temps de parole, contrôlé par l’Arcom ; l’égalité stricte entre tous les candidats ne s’applique que pendant la campagne officielle.",
+        "Plus de vingt personnes ont déclaré leur candidature ; la liste officielle ne sera connue qu’en mars 2027."
+      ],
+      "keyFacts": [
+        "Date : lundi 16 novembre 2026, à partir de 20 h 20 sur LCI et en deuxième partie du journal de TF1.",
+        "5 candidats invités : Attal, Glucksmann, Le Pen, Mélenchon, Retailleau.",
+        "Thèmes : solidarité, pouvoir d’achat, précarité."
+      ],
+      "forArgs": [
+        "Inviter tous les candidats déclarés donnerait la même visibilité à chacun."
+      ],
+      "againstArgs": [
+        "Un débat à plus de vingt candidats serait difficile à suivre ; les chaînes invitent selon la représentativité, dans le cadre de l’équité."
+      ],
+      "explanations": [
+        {
+          "term": "Équité du temps de parole",
+          "definition": "Temps d’antenne réparti selon la représentativité des candidats (résultats, sondages, élus…), avant la campagne officielle."
+        },
+        {
+          "term": "Arcom",
+          "definition": "Autorité qui régule l’audiovisuel et veille au pluralisme politique dans les médias."
+        }
+      ],
+      "publishedAt": "2026-11-13",
+      "sources": [
+        {
+          "label": "Ouest-France — le débat",
+          "url": "https://www.ouest-france.fr/elections/presidentielle/solidarite-pouvoir-dachat-precarite-un-debat-entre-cinq-candidats-a-la-presidentielle-lundi-sur-lci-et-tf1-f3d6f272-de94-11f1-86b6-0a2fbb1d8ed9"
+        },
+        {
+          "label": "Ouest-France — l’absence d’Édouard Philippe",
+          "url": "https://www.ouest-france.fr/elections/presidentielle/un-debat-presidentiel-sans-edouard-philippe-une-absence-qui-interroge-63a2d1ea-df2e-11f1-9a29-f4bab172af08"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-13",
+      "question": {
+        "id": "q-debat-tous-candidats",
+        "date": "2026-11-14",
+        "text": "Tous les candidats déclarés devraient-ils être invités aux grands débats télévisés avant le 1er tour ?"
+      }
+    }
+  ]
+}
