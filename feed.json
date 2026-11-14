@@ -1,7 +1,7 @@
 {
   "format": "govote-feed",
   "version": 1,
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-14",
   "_lisezmoi": "Fichier éditorial de GO VOTE. Une entrée = une actualité réelle + (facultatif) sa question du jour. Règles : faits sourcés, formulation neutre, une seule idée par question, 'Sans avis' toujours possible. Dates au format AAAA-MM-JJ (jour de Paris). Voir editorial/README.md.",
   "topics": [
     {
@@ -853,6 +853,571 @@
         "id": "q-parrainages-citoyens",
         "date": "2026-11-21",
         "text": "Faut-il pouvoir se présenter à la présidentielle avec des signatures de citoyens plutôt que d’élus ?"
+      }
+    },
+    {
+      "slug": "presomption-usage-armes-forces-ordre",
+      "category": "Société",
+      "image": {
+        "emoji": "🛡️",
+        "motif": "stripes"
+      },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Commissariat_central_de_police_du_XIIe_arrondissement%2C_Paris.JPG/960px-Commissariat_central_de_police_du_XIIe_arrondissement%2C_Paris.JPG",
+        "alt": "La façade du commissariat central de police du 12e arrondissement de Paris",
+        "author": "Daniel R. Witte",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Commissariat_central_de_police_du_XIIe_arrondissement,_Paris.JPG"
+      },
+      "title": "Policiers et gendarmes : le Sénat se penche sur une « présomption d’usage légal des armes »",
+      "shortTitle": "Usage des armes : une présomption en débat",
+      "summary": "Adoptée par les députés en juillet, une proposition de loi présumerait que les policiers et gendarmes qui utilisent leur arme respectent les règles, sauf preuve contraire. Son examen au Sénat était inscrit au 19 novembre.",
+      "what": "Le texte, déposé à l’origine par des députés LR, a été adopté par l’Assemblée nationale le 7 juillet 2026. Réécrit par un amendement du gouvernement, il prévoit que les policiers et gendarmes ayant fait usage de leur arme soient « présumés » l’avoir fait dans le respect des conditions d’absolue nécessité et de stricte proportionnalité. Cette présomption peut être renversée par une preuve contraire apportée par la justice. La commission des lois du Sénat l’a adopté sans modification le 10 novembre 2026 ; le gouvernement l’a inscrit à l’ordre du jour du 19 novembre.",
+      "why": "Le texte touche à l’équilibre entre la protection juridique des forces de l’ordre et le contrôle par la justice de leurs tirs.",
+      "context": [
+        "Le gouvernement a inscrit le texte dans son temps réservé au Sénat ; le groupe RN prévoyait de le reprendre dans sa propre journée réservée du 10 décembre.",
+        "Selon l’IGPN, citée par le rapport du Sénat, les tirs opérationnels de la police sont passés de 338 en 2017 à 176 en 2025.",
+        "Selon l’IGGN, citée par le même rapport, près de 3 200 gendarmes ont été blessés depuis le début de 2026, soit 25 % de plus que sur la même période de 2025."
+      ],
+      "keyFacts": [
+        "Adoption à l’Assemblée nationale : 7 juillet 2026.",
+        "Commission des lois du Sénat : texte adopté sans modification le 10 novembre 2026 (rapporteure : Lauriane Josende).",
+        "Examen en séance au Sénat inscrit le 19 novembre 2026 ; au 14 novembre, le texte n’était pas en vigueur.",
+        "La présomption peut être renversée par une preuve contraire (présomption « simple »)."
+      ],
+      "forArgs": [
+        "Selon la commission des lois du Sénat, les agressions contre les forces de l’ordre progressent et le texte sécurise juridiquement leur action sans supprimer le contrôle du juge."
+      ],
+      "againstArgs": [
+        "Des sénateurs socialistes, communistes et écologistes estiment qu’il inverse la charge de la preuve et risque de limiter les enquêtes après un tir.",
+        "La Ligue des droits de l’Homme appelle au rejet du texte."
+      ],
+      "explanations": [
+        {
+          "term": "Présomption",
+          "definition": "Ce que la loi tient pour vrai tant que le contraire n’est pas prouvé."
+        },
+        {
+          "term": "Absolue nécessité et stricte proportionnalité",
+          "definition": "Conditions posées par la loi pour qu’un policier ou un gendarme puisse utiliser son arme : pas d’autre moyen possible, et une riposte à la mesure du danger."
+        }
+      ],
+      "publishedAt": "2026-11-14",
+      "sources": [
+        {
+          "label": "Public Sénat",
+          "url": "https://www.publicsenat.fr/actualites/politique/presomption-de-legitime-defense-pour-les-forces-de-lordre-double-par-le-gouvernement-le-groupe-rn-ne-se-laissera-pas-destabiliser-par-les-mesquineries-dun-executif-cre"
+        },
+        {
+          "label": "Sénat — rapport n° 167 de la commission des lois",
+          "url": "https://www.senat.fr/rap/l26-167/l26-167_mono.html"
+        },
+        {
+          "label": "LDH — position de l’association",
+          "url": "https://www.ldh-france.org/la-proposition-de-loi-sur-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-ne-doit-pas-passer/"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-14",
+      "question": {
+        "id": "q-usage-armes-presomption",
+        "date": "2026-11-22",
+        "text": "Faut-il présumer que les policiers et gendarmes qui utilisent leur arme le font dans le respect de la loi ?"
+      }
+    },
+    {
+      "slug": "budget-2027-effort-collectivites",
+      "category": "Économie",
+      "image": {
+        "emoji": "🏛️",
+        "motif": "dots"
+      },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/H%C3%B4tel_de_ville_%28Scherwiller%29.jpg/960px-H%C3%B4tel_de_ville_%28Scherwiller%29.jpg",
+        "alt": "La mairie de Scherwiller, une commune du Bas-Rhin",
+        "author": "Gzen92",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_ville_(Scherwiller).jpg"
+      },
+      "title": "Budget 2027 : le Sénat veut alléger l’effort demandé aux communes, départements et régions",
+      "shortTitle": "Budget : l’effort des collectivités",
+      "summary": "Le gouvernement demande environ 5,5 milliards d’euros d’efforts aux collectivités locales. La commission des finances du Sénat veut ramener ce montant entre 2 et 2,5 milliards ; le budget est débattu au Sénat à partir du 20 novembre.",
+      "what": "Le projet de budget 2027 prévoit notamment de réduire le remboursement de la TVA sur une partie des investissements locaux (2,1 milliards d’euros) et de créer un nouveau prélèvement sur les collectivités, sans remboursement (2,5 milliards). La commission des finances du Sénat propose de supprimer la première mesure et de réduire la seconde à 1,5 milliard d’euros, en exonérant les communes les moins riches.",
+      "why": "Les collectivités financent écoles, routes, transports et aide sociale. L’État, lui, cherche des économies pour réduire le déficit public. Le partage de l’effort entre les deux est au cœur des débats du Sénat, qui représente les collectivités.",
+      "context": [
+        "Les associations d’élus estiment l’effort total à plus de 9 milliards d’euros, en comptant la hausse des cotisations de retraite des agents territoriaux (CNRACL).",
+        "Avec la version de la commission, le nombre de communes soumises au nouveau prélèvement passerait d’environ 14 000 à 4 000.",
+        "Le Sénat examine la partie « recettes » du budget du 20 au 28 novembre, puis les dépenses jusqu’en décembre."
+      ],
+      "keyFacts": [
+        "Effort demandé par le gouvernement : environ 5,5 milliards d’euros.",
+        "Proposition de la commission des finances du Sénat : entre 2 et 2,5 milliards d’euros.",
+        "Nouveau prélèvement (CPEB) : 2,5 milliards prévus par le gouvernement, 1,5 milliard proposés par la commission."
+      ],
+      "forArgs": [
+        "La commission des finances du Sénat et les associations d’élus estiment que ces mesures pèseraient sur l’investissement local et que la charge est trop lourde pour les collectivités."
+      ],
+      "againstArgs": [
+        "Le gouvernement maintient les prélèvements prévus en mettant en avant la nécessité de réduire le déficit public."
+      ],
+      "explanations": [
+        {
+          "term": "Collectivités territoriales",
+          "definition": "Communes, départements et régions : elles ont leurs propres élus et leur propre budget."
+        },
+        {
+          "term": "FCTVA",
+          "definition": "Fonds qui rembourse aux collectivités une partie de la TVA payée sur leurs investissements."
+        }
+      ],
+      "publishedAt": "2026-11-14",
+      "sources": [
+        {
+          "label": "Maire-info — le Sénat et l’effort des collectivités",
+          "url": "https://www.maire-info.com/budget-de-la-tat/budget-2027-les-sa-nateurs-veulent-ra-duire-de-3-milliards-deuros-la-ponction-sur-les-collectivita-s-et-revoient-leffort-sur-la-cnracl-art26-31285"
+        },
+        {
+          "label": "Sénat — ordre du jour",
+          "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-14",
+      "question": {
+        "id": "q-collectivites-effort",
+        "date": "2026-11-23",
+        "text": "Faut-il réduire l’effort d’économies demandé aux collectivités locales dans le budget 2027 ?"
+      }
+    },
+    {
+      "slug": "titres-restaurant-courses-alimentaires",
+      "category": "Travail",
+      "image": {
+        "emoji": "🧾",
+        "motif": "rings"
+      },
+      "title": "Titres-restaurant : payer ses courses au supermarché, bientôt pour de bon ?",
+      "shortTitle": "Titres-restaurant pour les courses",
+      "summary": "Une proposition de loi rendrait permanente la possibilité de payer toutes ses courses alimentaires avec des titres-restaurant. Adoptée par les députés, elle était inscrite au Sénat le 19 novembre.",
+      "what": "Une dérogation temporaire permet aujourd’hui d’utiliser les titres-restaurant pour tous les produits alimentaires, et pas seulement pour des plats prêts à manger. Elle doit s’arrêter le 31 décembre 2026. Le texte du député Christophe Naegelen (LIOT), adopté par l’Assemblée le 12 octobre 2026, la rendrait permanente. Il prévoit aussi des titres entièrement dématérialisés et la possibilité d’en faire don à des associations d’aide alimentaire.",
+      "why": "Pour les salariés, c’est une question de pouvoir d’achat. Pour les restaurateurs, c’est une part de la clientèle du midi qui se joue.",
+      "context": [
+        "Le plafond d’utilisation est aujourd’hui de 25 euros par jour.",
+        "À l’Assemblée, le rapporteur a proposé un plafond plus élevé dans les restaurants que pour les autres achats alimentaires (« double plafond »).",
+        "La commission des affaires sociales du Sénat a examiné et modifié le texte le 3 novembre 2026."
+      ],
+      "keyFacts": [
+        "Adoption à l’Assemblée : 12 octobre 2026.",
+        "Fin de la dérogation « courses » sans nouvelle loi : 31 décembre 2026.",
+        "Plafond actuel : 25 € par jour.",
+        "Examen en séance au Sénat inscrit le 19 novembre 2026."
+      ],
+      "forArgs": [
+        "Les défenseurs du texte, dont son rapporteur, mettent en avant le pouvoir d’achat des salariés, qui peuvent ainsi payer leurs courses avec leurs titres."
+      ],
+      "againstArgs": [
+        "Des députés de droite et du centre ont proposé de garder 25 € par jour au restaurant mais d’abaisser à 15 ou 10 € le plafond pour les autres achats alimentaires."
+      ],
+      "explanations": [
+        {
+          "term": "Titre-restaurant",
+          "definition": "Moyen de paiement financé en partie par l’employeur, pour aider les salariés à payer leur repas."
+        },
+        {
+          "term": "Dérogation",
+          "definition": "Exception temporaire à une règle."
+        }
+      ],
+      "publishedAt": "2026-11-14",
+      "sources": [
+        {
+          "label": "LCP — tickets-restaurant et courses",
+          "url": "https://lcp.fr/actualites/courses-alimentaires-avec-les-tickets-restaurant-vers-la-perennisation-du-dispositif-et"
+        },
+        {
+          "label": "Sénat — texte de la commission",
+          "url": "https://www.senat.fr/leg/ppl26-142.html"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-14",
+      "question": {
+        "id": "q-titres-restaurant-courses",
+        "date": "2026-11-24",
+        "text": "Faut-il autoriser définitivement les titres-restaurant pour toutes les courses alimentaires ?"
+      }
+    },
+    {
+      "slug": "droits-voisins-presse-plateformes",
+      "category": "Société",
+      "image": {
+        "emoji": "📰",
+        "motif": "waves"
+      },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Paris_9e_-_Boulevard_Montmarte%2C_entr%C3%A9e_du_m%C3%A9tro_et_kiosque_%C3%A0_journaux%2C_%C3%A0_l%27angle_de_la_rue_du_Faubourg_Montmartre.jpg/960px-Paris_9e_-_Boulevard_Montmarte%2C_entr%C3%A9e_du_m%C3%A9tro_et_kiosque_%C3%A0_journaux%2C_%C3%A0_l%27angle_de_la_rue_du_Faubourg_Montmartre.jpg",
+        "alt": "Un kiosque à journaux près d’une entrée de métro, boulevard Montmartre à Paris",
+        "author": "Romainbehar",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris_9e_-_Boulevard_Montmarte,_entr%C3%A9e_du_m%C3%A9tro_et_kiosque_%C3%A0_journaux,_%C3%A0_l%27angle_de_la_rue_du_Faubourg_Montmartre.jpg"
+      },
+      "title": "Presse et géants du numérique : une loi pour mieux faire payer les « droits voisins »",
+      "shortTitle": "Faire payer les plateformes pour la presse",
+      "summary": "Adoptée à l’unanimité par les députés le 12 novembre, une loi doit obliger Google et les autres grandes plateformes à mieux rémunérer les éditeurs de presse. Le vote final était prévu au Sénat le 19 novembre.",
+      "what": "Depuis 2019, les « droits voisins » permettent aux éditeurs de presse d’être payés quand leurs articles sont réutilisés en ligne. Le texte du député Erwan Balanant (Les Démocrates) oblige les plateformes à donner les informations nécessaires au calcul de cette rémunération. En cas de blocage, l’Arcom pourrait les sanctionner jusqu’à 1 % de leur chiffre d’affaires mondial et fixer elle-même la somme due. Les outils d’intelligence artificielle qui exploitent des articles de presse seraient soumis aux mêmes obligations.",
+      "why": "Les recettes publicitaires de la presse ont fortement baissé, tandis que quelques grandes plateformes captent une large part du marché publicitaire.",
+      "context": [
+        "Recettes publicitaires de la presse française : 1,6 milliard d’euros en 2025, contre 3,1 milliards en 2012 (chiffres cités par LCP).",
+        "Selon les mêmes chiffres, quatre grandes plateformes captaient 36 % du marché publicitaire.",
+        "Le texte a été soutenu par le gouvernement."
+      ],
+      "keyFacts": [
+        "Vote à l’Assemblée : 12 novembre 2026, 59 voix pour, 0 contre.",
+        "Amende possible : jusqu’à 1 % du chiffre d’affaires mondial de la plateforme.",
+        "Vote définitif inscrit au Sénat le 19 novembre 2026."
+      ],
+      "forArgs": [
+        "Le rapporteur Erwan Balanant estime que la presse a besoin de ces revenus ; la ministre de la Culture, Catherine Pégard, a salué un texte de consensus."
+      ],
+      "againstArgs": [
+        "Plusieurs députés, tout en votant le texte, ont émis des réserves : pas d’obligation de partager les sommes avec les journalistes (GDR), risque de longues procédures (LFI), texte vite dépassé par l’IA (Écologistes)."
+      ],
+      "explanations": [
+        {
+          "term": "Droits voisins",
+          "definition": "Droits proches du droit d’auteur, qui permettent aux éditeurs de presse d’être rémunérés quand leurs contenus sont réutilisés."
+        },
+        {
+          "term": "Arcom",
+          "definition": "Autorité publique indépendante qui régule l’audiovisuel et le numérique."
+        }
+      ],
+      "publishedAt": "2026-11-14",
+      "sources": [
+        {
+          "label": "LCP — le vote des députés",
+          "url": "https://lcp.fr/actualites/les-deputes-votent-une-loi-pour-obliger-google-et-les-autres-geants-du-numerique-a-mieux"
+        },
+        {
+          "label": "Sénat — ordre du jour",
+          "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-14",
+      "question": {
+        "id": "q-plateformes-payer-presse",
+        "date": "2026-11-25",
+        "text": "Faut-il pouvoir sanctionner les grandes plateformes qui ne rémunèrent pas assez la presse ?"
+      }
+    },
+    {
+      "slug": "ia-presomption-utilisation-oeuvres",
+      "category": "Société",
+      "image": {
+        "emoji": "🤖",
+        "motif": "dots"
+      },
+      "title": "Intelligence artificielle : faire prouver aux entreprises qu’elles n’ont pas utilisé une œuvre",
+      "shortTitle": "IA et œuvres : qui doit prouver ?",
+      "summary": "Voté à l’unanimité par le Sénat en avril, un texte prévoit qu’une œuvre soit présumée utilisée par une IA dès qu’un indice le rend vraisemblable. Il était inscrit à l’Assemblée le 19 novembre, sans certitude d’être débattu.",
+      "what": "La proposition de loi, portée notamment par les sénatrices Laure Darcos et Agnès Evren et le sénateur Pierre Ouzoulias, a été adoptée à l’unanimité par le Sénat le 8 avril 2026. Elle prévoit qu’une œuvre protégée (livre, musique, image…) soit présumée avoir servi à développer un outil d’intelligence artificielle dès qu’un indice rend cette utilisation vraisemblable. Ce serait alors à l’entreprise d’IA de prouver le contraire. Le groupe socialiste l’a inscrite à sa journée réservée du 19 novembre 2026 à l’Assemblée.",
+      "why": "Les auteurs et les éditeurs disent ne pas pouvoir prouver que leurs œuvres ont servi à entraîner des IA, faute d’accès aux données des entreprises. Sans preuve, ils ne peuvent pas demander de rémunération.",
+      "context": [
+        "Le Conseil d’État a relevé qu’il s’agit d’une présomption d’utilisation, et non d’une présomption d’atteinte aux droits d’auteur.",
+        "En juin, l’examen à l’Assemblée n’avait pas pu avoir lieu après le dépôt de 110 amendements, surtout par le groupe Ensemble pour la République.",
+        "Selon ActuaLitté, le président du groupe socialiste envisageait de retirer le texte de l’ordre du jour si ces amendements étaient maintenus."
+      ],
+      "keyFacts": [
+        "Adoption au Sénat : 8 avril 2026, à l’unanimité.",
+        "Inscription à l’Assemblée : journée réservée du groupe socialiste, 19 novembre 2026.",
+        "Le texte compte un article unique, qui modifie le code de la propriété intellectuelle."
+      ],
+      "forArgs": [
+        "Les sénateurs auteurs du texte et les représentants des ayants droit, dont le Syndicat national de l’édition, demandent une rémunération à la hauteur de l’usage des œuvres par les IA."
+      ],
+      "againstArgs": [
+        "Le groupe Ensemble pour la République a déposé la plupart des 110 amendements visant à modifier le texte à l’Assemblée ; le Conseil d’État a précisé que la présomption ne vaut pas preuve d’une atteinte aux droits d’auteur."
+      ],
+      "explanations": [
+        {
+          "term": "Charge de la preuve",
+          "definition": "Obligation, pour une partie dans un litige, de prouver ce qu’elle affirme."
+        },
+        {
+          "term": "Entraînement d’une IA",
+          "definition": "Étape où un programme apprend à partir d’un très grand nombre de textes, d’images ou de sons."
+        }
+      ],
+      "publishedAt": "2026-11-14",
+      "sources": [
+        {
+          "label": "ActuaLitté",
+          "url": "https://actualitte.com/article/135125/politique-publique/ia-la-presomption-d-utilisation-des-contenus-culturels-a-l-assemblee-nationale"
+        },
+        {
+          "label": "Sénat — dossier législatif",
+          "url": "https://www.senat.fr/leg/ppl25-220.html"
+        },
+        {
+          "label": "Conseil d’État — avis sur le texte",
+          "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/a-l-assemblee-nationale-et-au-senat/avis-sur-une-proposition-de-loi-relative-a-l-instauration-d-une-presomption-d-exploitation-des-contenus-culturels-par-les-fournisseurs-d-intelligen"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-14",
+      "question": {
+        "id": "q-ia-preuve-oeuvres",
+        "date": "2026-11-26",
+        "text": "Faut-il que ce soit aux entreprises d’IA de prouver qu’elles n’ont pas utilisé une œuvre protégée ?"
+      }
+    },
+    {
+      "slug": "ultra-fast-fashion-malus-black-friday",
+      "category": "Écologie",
+      "image": {
+        "emoji": "👕",
+        "motif": "stripes"
+      },
+      "title": "Black Friday : la loi contre la « mode ultra-express » vise les plateformes, pas les grandes enseignes",
+      "shortTitle": "Mode jetable : qui doit payer le malus ?",
+      "summary": "À l’approche du Black Friday, le 27 novembre, la loi adoptée en juin impose un malus aux vêtements des plateformes comme Shein ou Temu. Les enseignes comme Zara, Kiabi ou Primark n’y sont pas soumises.",
+      "what": "La loi contre la « mode ultra-express », définitivement adoptée par le Parlement le 29 juin 2026, crée un malus sur les vêtements vendus par les plateformes qui mettent sur le marché un très grand nombre de modèles. Ce malus augmente avec le temps et peut atteindre 20 euros par pièce en 2030, dans la limite de 50 % du prix. Les enseignes de « fast-fashion » classiques, qui figuraient dans la version initiale du texte, n’y sont finalement pas soumises.",
+      "why": "Le Black Friday, journée de fortes promotions, relance chaque année le débat sur la surconsommation de vêtements et leurs effets sur l’environnement.",
+      "context": [
+        "Le texte avait été déposé à l’Assemblée en janvier 2024 par la députée Anne-Cécile Violland (Horizons).",
+        "Une partie du malus doit financer la collecte et le recyclage des textiles.",
+        "L’interdiction de la publicité pour ces produits est prévue, mais sa mise en œuvre dépend de sa compatibilité avec le droit européen."
+      ],
+      "keyFacts": [
+        "Adoption définitive : 29 juin 2026.",
+        "Malus : jusqu’à 20 € par pièce en 2030, plafonné à 50 % du prix.",
+        "Les seuils qui définissent la « mode ultra-express » sont fixés par décret."
+      ],
+      "forArgs": [
+        "Le sénateur écologiste Jacques Fernique juge les critères « inconsistants » et estime que le texte exempte les multinationales européennes et françaises."
+      ],
+      "againstArgs": [
+        "Le gouvernement affirme que la cible est claire : les plateformes extra-européennes ; la rapporteure du Sénat, Sylvie Valente-Le Hir (LR), a défendu l’équilibre trouvé."
+      ],
+      "explanations": [
+        {
+          "term": "Malus",
+          "definition": "Pénalité financière ajoutée au prix d’un produit jugé nocif, ici pour l’environnement."
+        },
+        {
+          "term": "Fast-fashion",
+          "definition": "Mode à renouvellement très rapide des collections, à bas prix."
+        }
+      ],
+      "publishedAt": "2026-11-14",
+      "sources": [
+        {
+          "label": "Public Sénat — adoption définitive",
+          "url": "https://www.publicsenat.fr/actualites/politique/loi-anti-fast-fashion-le-senat-adopte-definitivement-le-texte-penalisant-les-produits-shein-et-temu"
+        },
+        {
+          "label": "Ouest-France — ce que contient la loi",
+          "url": "https://www.ouest-france.fr/economie/consommation/ultra-fast-fashion-publicite-interdite-malus-que-contient-la-loi-contre-la-mode-ephemere-adoptee-par-le-parlement-5253c68c-7477-11f1-847f-0515a70d2189"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-14",
+      "question": {
+        "id": "q-malus-fast-fashion-enseignes",
+        "date": "2026-11-27",
+        "text": "Faut-il appliquer le malus de la mode jetable aussi aux grandes enseignes comme Zara ou Primark ?"
+      }
+    },
+    {
+      "slug": "reseaux-sociaux-moins-15-ans-censure",
+      "category": "Éducation",
+      "image": {
+        "emoji": "📱",
+        "motif": "rings"
+      },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Conseil_Constitutionnel_Paris.jpg/960px-Conseil_Constitutionnel_Paris.jpg",
+        "alt": "L’entrée du Conseil constitutionnel, rue de Montpensier à Paris",
+        "author": "Jebulon",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Conseil_Constitutionnel_Paris.jpg"
+      },
+      "title": "Réseaux sociaux avant 15 ans : après la censure de l’interdiction, le débat continue",
+      "shortTitle": "Réseaux sociaux avant 15 ans",
+      "summary": "Votée en juillet, l’interdiction des réseaux sociaux aux moins de 15 ans a été censurée par le Conseil constitutionnel le 14 août 2026. La question de mieux protéger les mineurs reste débattue.",
+      "what": "Le Parlement avait adopté en juillet 2026 une loi interdisant l’accès aux réseaux sociaux aux moins de 15 ans. Saisi par des parlementaires, le Conseil constitutionnel a censuré cette interdiction le 14 août 2026 (décision n° 2026-911 DC). Il a jugé qu’une interdiction générale, sans tenir compte de la situation du mineur, des risques de chaque service ni de l’avis des parents, portait une atteinte disproportionnée à la liberté d’expression. Il a aussi relevé qu’elle aurait obligé tout le monde, adultes compris, à prouver son âge.",
+      "why": "Le Conseil constitutionnel reconnaît que la protection des enfants peut justifier de limiter leur accès aux réseaux sociaux. La question est donc de savoir comment le faire, et jusqu’où.",
+      "context": [
+        "L’interdiction devait s’appliquer dès le 1er septembre 2026 aux nouveaux comptes.",
+        "Des juristes évoquent une nouvelle rédaction qui viserait des fonctionnalités jugées nocives selon l’âge, plutôt qu’une interdiction totale ; aucun nouveau texte n’était adopté au 14 novembre 2026.",
+        "Au niveau européen, la question d’un âge minimum pour les réseaux sociaux est également débattue."
+      ],
+      "keyFacts": [
+        "Décision du Conseil constitutionnel : n° 2026-911 DC du 14 août 2026.",
+        "Disposition censurée : l’article 1er, qui interdisait les réseaux sociaux aux moins de 15 ans.",
+        "Motifs : liberté d’expression et de communication, respect de la vie privée."
+      ],
+      "forArgs": [
+        "Les partisans de la loi mettent en avant la protection des plus jeunes ; le Conseil constitutionnel reconnaît que l’intérêt de l’enfant peut justifier de limiter leur accès aux réseaux sociaux."
+      ],
+      "againstArgs": [
+        "Les parlementaires qui ont saisi le Conseil constitutionnel contestaient l’interdiction ; le Conseil l’a jugée disproportionnée, notamment parce qu’elle ne laissait aucune place à l’avis des parents."
+      ],
+      "explanations": [
+        {
+          "term": "Censure",
+          "definition": "Décision du Conseil constitutionnel qui annule une disposition d’une loi jugée contraire à la Constitution."
+        },
+        {
+          "term": "Conseil constitutionnel",
+          "definition": "Institution qui vérifie que les lois respectent la Constitution."
+        }
+      ],
+      "publishedAt": "2026-11-14",
+      "sources": [
+        {
+          "label": "Conseil constitutionnel — communiqué",
+          "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-911-dc-du-14-aout-2026-communique-de-presse"
+        },
+        {
+          "label": "The Conversation — où mène la censure ?",
+          "url": "https://theconversation.com/loi-sur-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-ou-mene-la-censure-du-conseil-constitutionnel-290011"
+        },
+        {
+          "label": "Toute l’Europe",
+          "url": "https://www.touteleurope.eu/societe/pourquoi-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-voulue-par-la-france-est-un-casse-tete-europeen/"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-14",
+      "question": {
+        "id": "q-reseaux-sociaux-15-ans",
+        "date": "2026-11-28",
+        "text": "Faut-il interdire l’accès aux réseaux sociaux avant 15 ans ?"
+      }
+    },
+    {
+      "slug": "maprimerenov-pompes-a-chaleur-2027",
+      "category": "Logement",
+      "image": {
+        "emoji": "🏠",
+        "motif": "waves"
+      },
+      "title": "MaPrimeRénov’ : le budget 2027 prévoit de ne plus financer une pompe à chaleur seule",
+      "shortTitle": "MaPrimeRénov’ recentrée",
+      "summary": "Le projet de budget 2027 réserve MaPrimeRénov’ aux rénovations d’ampleur. Les pompes à chaleur installées seules seraient aidées uniquement par les primes des fournisseurs d’énergie. Ces crédits sont débattus au Sénat début décembre.",
+      "what": "Selon les documents du projet de budget 2027, l’installation d’une pompe à chaleur seule ne serait plus aidée par MaPrimeRénov’, mais uniquement par les « certificats d’économies d’énergie » (CEE), des primes financées par les fournisseurs d’énergie et de carburants. L’Anah, qui gère MaPrimeRénov’, concentrerait ses moyens sur les rénovations qui combinent plusieurs travaux. Les crédits du programme qui la finance passeraient de 1,450 milliard d’euros en 2026 à 1,233 milliard en 2027.",
+      "why": "Les pompes à chaleur sont un des principaux moyens de remplacer le chauffage au fioul ou au gaz. Le mode d’aide choisi influe sur le reste à payer pour les ménages.",
+      "context": [
+        "Depuis 2026, plusieurs travaux (isolation des murs, de la toiture, chaudières bois…) ne sont déjà plus financés « par geste » dans MaPrimeRénov’.",
+        "Le montant des primes CEE qui prendraient le relais n’est pas fixé ; il dépend des offres des fournisseurs.",
+        "Ces orientations doivent encore être traduites dans la réglementation ; elles dépendent du vote du budget."
+      ],
+      "keyFacts": [
+        "Crédits du programme 135 (Anah) : 1,450 Md€ en 2026 → 1,233 Md€ prévus en 2027, soit environ −15 %.",
+        "Mission « Cohésion des territoires » au Sénat : 1er décembre 2026."
+      ],
+      "forArgs": [
+        "Le gouvernement présente ce changement comme un recentrage : les travaux ponctuels financés par les CEE, les rénovations globales par l’Anah."
+      ],
+      "againstArgs": [
+        "Des organisations professionnelles du chauffage et de la rénovation, dont l’AFPAC, ont plaidé en 2025 pour le maintien des aides aux travaux « par geste », jugées plus accessibles aux ménages."
+      ],
+      "explanations": [
+        {
+          "term": "Pompe à chaleur",
+          "definition": "Appareil électrique qui chauffe un logement en captant la chaleur de l’air, de l’eau ou du sol."
+        },
+        {
+          "term": "Certificats d’économies d’énergie (CEE)",
+          "definition": "Dispositif qui oblige les fournisseurs d’énergie à financer des travaux d’économies d’énergie, souvent sous forme de primes."
+        }
+      ],
+      "publishedAt": "2026-11-14",
+      "sources": [
+        {
+          "label": "MoneyVox — ce que le gouvernement prévoit pour 2027",
+          "url": "https://www.moneyvox.fr/immobilier/actualites/110691/maprimerenov-ce-que-le-gouvernement-prevoit-de-changer-en-2027"
+        },
+        {
+          "label": "AFPAC — communiqué du 6 juin 2025",
+          "url": "https://www.afpac.org/wp-content/uploads/2025/06/Communique-de-Presse-6-juin-2025-MaPrimeRenov.pdf"
+        },
+        {
+          "label": "Sénat — ordre du jour",
+          "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-14",
+      "question": {
+        "id": "q-maprimerenov-renovations-completes",
+        "date": "2026-11-29",
+        "text": "Faut-il réserver MaPrimeRénov’ aux rénovations complètes des logements ?"
+      }
+    },
+    {
+      "slug": "territoires-zero-chomeur-budget-2027",
+      "category": "Travail",
+      "image": {
+        "emoji": "🤝",
+        "motif": "dots"
+      },
+      "photo": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Palais_du_Luxembourg%2C_South_View_140116_1.jpg/960px-Palais_du_Luxembourg%2C_South_View_140116_1.jpg",
+        "alt": "Le palais du Luxembourg, siège du Sénat, vu depuis le jardin",
+        "author": "DXR",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palais_du_Luxembourg,_South_View_140116_1.jpg"
+      },
+      "title": "« Territoires zéro chômeur » : pérennisé par la loi, mais avec moins de crédits en 2027 ?",
+      "shortTitle": "Territoires zéro chômeur en débat",
+      "summary": "Une loi doit faire durer l’expérience « Territoires zéro chômeur de longue durée », qui s’arrête fin 2026 sans nouveau texte. Le projet de budget 2027 baisse ses crédits de 20 % ; le Sénat examine les crédits de l’emploi le 30 novembre.",
+      "what": "Depuis 2016, l’expérience « Territoires zéro chômeur de longue durée » embauche en CDI des personnes privées durablement d’emploi, dans des « entreprises à but d’emploi » financées en partie par l’État. Une proposition de loi pour la rendre permanente et l’étendre progressivement a été votée à l’unanimité par les députés en janvier 2026, modifiée par le Sénat en juin, et était inscrite à l’Assemblée le 19 novembre pour une deuxième lecture. Dans le projet de budget 2027, les crédits du dispositif passent à 63,06 millions d’euros, soit 20 % de moins.",
+      "why": "Le dispositif est présenté comme une solution pour des chômeurs de très longue durée, mais il coûte cher aux finances publiques. Son avenir dépend à la fois de la loi et du budget.",
+      "context": [
+        "Selon l’évaluation scientifique de septembre 2025, environ 4 000 personnes travaillaient dans les entreprises à but d’emploi de la deuxième vague.",
+        "La Cour des comptes (juin 2025) a jugé l’expérience utile localement, mais exigeante en moyens humains et financiers.",
+        "Sans loi adoptée, l’expérimentation prend fin le 31 décembre 2026."
+      ],
+      "keyFacts": [
+        "Crédits prévus en 2027 : 63,06 millions d’euros (−20 %).",
+        "Examen au Sénat de la mission « Travail, emploi » : 30 novembre 2026.",
+        "Le ministre du Travail, Jean-Pierre Farandou, souhaite voir le dispositif « vivre au-delà de 2026 »."
+      ],
+      "forArgs": [
+        "Les associations (TZCLD, Emmaüs France, ATD Quart Monde, APF France handicap…) estiment que le dispositif offre un vrai emploi à des personnes exclues du marché du travail."
+      ],
+      "againstArgs": [
+        "La Cour des comptes et le comité d’évaluation soulignent un coût élevé et une expérience loin d’être neutre pour les finances publiques."
+      ],
+      "explanations": [
+        {
+          "term": "Entreprise à but d’emploi (EBE)",
+          "definition": "Entreprise créée pour embaucher en CDI des chômeurs de longue durée, sur des activités utiles au territoire."
+        },
+        {
+          "term": "Chômage de longue durée",
+          "definition": "Situation d’une personne sans emploi depuis plus d’un an."
+        }
+      ],
+      "publishedAt": "2026-11-14",
+      "sources": [
+        {
+          "label": "Banque des Territoires — le budget emploi 2027",
+          "url": "https://www.banquedesterritoires.fr/emploi-formation-le-plf-2027-epargne-les-jeunes-mais-pas-les-chomeurs"
+        },
+        {
+          "label": "Carenews — l’avenir du dispositif",
+          "url": "https://www.carenews.com/carenews-info/news/territoires-zero-chomeur-de-longue-duree-la-poursuite-du-dispositif-suspendue-a"
+        },
+        {
+          "label": "Assemblée nationale — dossier législatif",
+          "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_emploi_experimentation_tzcld_17"
+        },
+        {
+          "label": "Sénat — ordre du jour",
+          "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html"
+        }
+      ],
+      "lastVerifiedAt": "2026-11-14",
+      "question": {
+        "id": "q-zero-chomeur-extension",
+        "date": "2026-11-30",
+        "text": "Faut-il étendre « Territoires zéro chômeur de longue durée » à de nouveaux territoires ?"
       }
     }
   ]
